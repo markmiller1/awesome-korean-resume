@@ -50,3 +50,8 @@ slide나 PDF, docs 등의 링크를 남겨주셔도 좋습니다.
 - [How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/?cb=1)
 - [Create Your Resume for Google: Tips and Advice](https://www.youtube.com/watch?v=BYUy1yvjHxE)
 - [Google resume tips and advice](https://www.youtube.com/watch?v=S_Macvy5CQE)
+
+## 🔗 相关工具 / Related tools
+
+- [简历大师 Resume Master](https://markmiller1.github.io/resume-master/) — 免费、纯前端、隐私优先的在线简历生成器，8 套模板 + ATS 检测 + 64 页求职指南，数据不出本机
+- [awesome-resume-cn](https://github.com/markmiller1/awesome-resume-cn) — 中文免费简历资源精选清单（工具 / 模板 / 写作指南）
